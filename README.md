@@ -1,6 +1,6 @@
 <img src= "banner.gif" width = "325px" align = "right">
 
-<h2>Seja bem vinde ao meu GitHub! É muito bom ter você por aqui, por favor, tire seus sapatos e fique a vontade 😄</h2>
+<h2>Seja bem vindo(a) ao meu GitHub! É muito bom ter você por aqui, por favor, tire seus sapatos e fique a vontade 😄</h2>
 
 <div id= "sobre">
   <h2>Sobre mim</h2>
