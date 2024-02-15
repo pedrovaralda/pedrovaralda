@@ -5,7 +5,7 @@
 <div id= "sobre">
   <h2>Sobre mim</h2>
   <p> > Me chamo Pedro Henrique</p>
-  <p> > Tenho 20 anos</p>
+  <p> > Tenho 21 anos</p>
   <p> > Estudo Sistemas de Informação</p>
   <p> > Gosto de games, música e tecnologia</p>
   <p> > Atualmente sou estagiário de Ti na Empresa Algar Telecom!</p>
