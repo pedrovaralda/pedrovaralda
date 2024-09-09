@@ -20,7 +20,7 @@
 
 <h2>Skills</h2>
 
-<p>Algumas das minhas especialidades são:</p><br>
+<p>Algumas das minhas stacks são:</p><br>
 
 <div id= "tech">
   <img src= "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width= "50px" height= "50px">
@@ -32,5 +32,6 @@
   <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width= "50px" height= "50px">
   <img src= "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width= "50px" height= "50px">
   <img src= "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width= "50px" height= "50px">
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width= "50px" height= "50px">
   <p>Entre outros...</p>
 </div><br>
