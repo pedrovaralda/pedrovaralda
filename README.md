@@ -23,6 +23,7 @@
 <p>Algumas das minhas especialidades são:</p><br>
 
 <div id= "tech">
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width= "50px" height= "50px">
   <img src= "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width= "50px" height= "50px">
   <img src= "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width= "50px" height= "50px">
   <img src= "https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width= "50px" height= "50px">
