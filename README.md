@@ -8,7 +8,7 @@
   <p> > Tenho 21 anos</p>
   <p> > Estudo Sistemas de Informação</p>
   <p> > Gosto de games, música e tecnologia</p>
-  <p> > Atualmente sou estagiário de Ti na Empresa Algar Telecom!</p>
+  <p> > Atualmente buscando realocação no mercado!</p>
 </div>
 
 
