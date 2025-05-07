@@ -8,7 +8,7 @@
   <p> > Tenho 22 anos</p>
   <p> > Estudo Sistemas de Informação - 6° Período</p>
   <p> > Gosto de games, música e tecnologia</p>
-  <p> > Atualmente buscando realocação no mercado!</p>
+  <p> > Atualmente sou estagiário de TI no Grupo RiHappy!</p>
 </div>
 
 
