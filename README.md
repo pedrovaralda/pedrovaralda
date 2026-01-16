@@ -2,7 +2,7 @@
 
 <div id= "sobre">
   <h2>Sobre mim</h2>
-  <img src= "banner.gif" width = "300px" height = auto align = "right">
+  <img src= "banner.gif" width = "300px" align = "right">
   <p> > Me chamo Pedro Henrique</p>
   <p> > Tenho 23 anos</p>
   <p> > Estudo Sistemas de Informação - último período</p>
