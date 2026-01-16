@@ -1,6 +1,6 @@
+<img src= "banner.gif" width = "300px" align = "right">
 <h2>Seja bem vindo(a) ao meu GitHub! É muito bom ter você por aqui, por favor, tire seus sapatos e fique a vontade 😄</h2>
 
-<div id="sobre" style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
   <div id= "sobre">
     <h2>Sobre mim</h2>
     <p> > Me chamo Pedro Henrique</p>
@@ -9,8 +9,6 @@
     <p> > Gosto de games, música e tecnologia</p>
     <p> > Atualmente sou estagiário de TI no Grupo RiHappy!</p>
   </div>
-  <img src= "banner.gif" width = "300px" align = "right">
-</div>
 
 
 <div id= "sociais">
