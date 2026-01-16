@@ -5,8 +5,8 @@
 <div id= "sobre">
   <h2>Sobre mim</h2>
   <p> > Me chamo Pedro Henrique</p>
-  <p> > Tenho 22 anos</p>
-  <p> > Estudo Sistemas de Informação - 6° Período</p>
+  <p> > Tenho 23 anos</p>
+  <p> > Estudo Sistemas de Informação - último período</p>
   <p> > Gosto de games, música e tecnologia</p>
   <p> > Atualmente sou estagiário de TI no Grupo RiHappy!</p>
 </div>
