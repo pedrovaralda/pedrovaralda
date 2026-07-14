@@ -5,7 +5,7 @@
     <h2>Sobre mim</h2>
     <p> > Me chamo Pedro Henrique</p>
     <p> > Tenho 23 anos</p>
-    <p> > Estudo Sistemas de Informação - último período</p>
+    <p> > Formado em Sistemas de Informação</p>
     <p> > Gosto de games, música e tecnologia</p>
     <p> > Atualmente sou Analista de Sistemas Jr no Grupo RiHappy!</p>
   </div>
