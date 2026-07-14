@@ -12,9 +12,8 @@
 
 
 <div id= "sociais">
-  <h2>Sociais</h2><br>
+  <h2>LinkedIn</h2><br>
   <a href= "https://www.linkedin.com/in/pedro-henrique-varalda/"><img src= "https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width= "100px" height= "50px"></a>
-  <a href= "https://twitter.com/PQBeats_"><img src= "https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width= "100px" height= "50px"></a>
 </div><br>
 
 <h2>Skills</h2>
