@@ -1,35 +1,45 @@
-<img src= "banner.gif" width = "300px" align = "right">
-<h2>Seja bem vindo(a) ao meu GitHub! É muito bom ter você por aqui, por favor, tire seus sapatos e fique a vontade 😄</h2>
+<div align="center">
 
-  <div id= "sobre">
-    <h2>Sobre mim</h2>
-    <p> > Me chamo Pedro Henrique</p>
-    <p> > Tenho 23 anos</p>
-    <p> > Formado em Sistemas de Informação</p>
-    <p> > Gosto de games, música e tecnologia</p>
-    <p> > Atualmente sou Analista de Sistemas Jr no Grupo RiHappy!</p>
-  </div>
+# 👋 Olá, eu sou o Pedro Henrique
+### Analista de Sistemas Jr @ Grupo RiHappy | Bacharel em Sistemas de Informação
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-varalda/)
+[![Portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedro-henrique-varalda)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phvaralda@gmail.com)
 
-<div id= "sociais">
-  <h2>LinkedIn</h2><br>
-  <a href= "https://www.linkedin.com/in/pedro-henrique-varalda/"><img src= "https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width= "100px" height= "50px"></a>
-</div><br>
+</div>
 
-<h2>Skills</h2>
+---
 
-<p>Algumas das minhas stacks são:</p><br>
+### 🚀 Sobre Mim
 
-<div id= "tech">
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width= "50px" height= "50px">
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width= "50px" height= "50px">
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width= "50px" height= "50px">
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width= "50px" height= "50px">
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width= "50px" height= "50px">
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width= "50px" height= "50px">
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width= "50px" height= "50px">
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width= "50px" height= "50px">
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width= "50px" height= "50px">
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width= "50px" height= "50px">
-  <p>Entre outros...</p>
-</div><br>
+- 💻 **Atuação:** Analista de Sistemas Jr no Grupo RiHappy, focado em criar soluções eficientes e escaláveis.
+- 🎓 **Formação:** Bacharel em Sistemas de Informação.
+- ⚡ **Interesses:** Fórmula 1, engenharia de software, games e novas tecnologias.
+- 💬 **Pode falar comigo sobre:** Node.js, ecossistema JavaScript/TypeScript, bancos de dados e arquitetura de software e IA.
+
+---
+
+### 🛠️ Tech Stack & Ferramentas
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | `Java` `TypeScript` `JavaScript` `Python` |
+| **Front-end** | `React` `HTML5` `CSS3` |
+| **Back-end & DB** | `Node.js` `PostgreSQL` |
+| **DevOps & Ferramentas** | `Git` `GitHub` `BitBucket` `GitLab` |
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dark&hide=html,css"/>
+
+</div>
+
+---
+
+💡 *Disponível para trocas de conhecimento e conexões profissionais no LinkedIn!*
