@@ -13,7 +13,7 @@
 
 ### 🚀 Sobre Mim
 
-- 💻 **Atuação:** Analista de Sistemas Jr no Grupo RiHappy, focado em criar soluções eficientes e escaláveis.
+- 💻 **Atuação:** Analista de Sistemas Jr no Grupo Ri Happy, focado em criar soluções eficientes e escaláveis.
 - 🎓 **Formação:** Bacharel em Sistemas de Informação.
 - ⚡ **Interesses:** Fórmula 1, engenharia de software, games e novas tecnologias.
 - 💬 **Pode falar comigo sobre:** Node.js, ecossistema JavaScript/TypeScript, bancos de dados e arquitetura de software e IA.
